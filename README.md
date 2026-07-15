@@ -28,3 +28,5 @@ Predict whether a passenger would have survived the Titanic disaster, using feat
 
 ## Results
 The Random Forest model achieves ~80% accuracy on the test set. Gender and passenger class turned out to be the strongest predictors of survival.
+
+AI/ML Intern, CodTech IT Solutions InternID: CITS5467
